@@ -1,0 +1,3 @@
+Tiiminimi: <input type="text" name="name" required>
+
+Vastus: <input type="text" name="text" required>
